@@ -6,3 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/application.properties
+/application.yaml
+/application-dev.yaml
+/application-prod.yaml
+/keystore.jks
+echo '**/local.properties' >> .gitignore
